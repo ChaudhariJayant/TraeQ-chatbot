@@ -1,0 +1,93 @@
+[
+  {
+    "question": "What is a swing trading strategy?",
+    "expected_source": "retrieve",
+    "expected_response": "Swing trading is a strategy that aims to capture short- to medium-term gains in a stock or other financial instrument over a few days to weeks."
+  },
+  {
+    "question": "How does RSI help in trading?",
+    "expected_source": "retrieve",
+    "expected_response": "RSI, or Relative Strength Index, helps traders identify overbought or oversold conditions in a market to make buy or sell decisions."
+  },
+  {
+    "question": "What are Bollinger Bands?",
+    "expected_source": "retrieve",
+    "expected_response": "Bollinger Bands are a technical analysis tool consisting of a middle band (SMA) and two outer bands that represent standard deviations above and below the SMA."
+  },
+  {
+    "question": "Who is Warren Buffett?",
+    "expected_source": "wiki_search",
+    "expected_response": "Warren Buffett is a renowned investor and the chairman of Berkshire Hathaway, known for his value investing strategies."
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_source": "wiki_search",
+    "expected_response": "The capital of France is Paris."
+  },
+  {
+    "question": "What is forex trading?",
+    "expected_source": "retrieve",
+    "expected_response": "Forex trading involves buying and selling currency pairs in the foreign exchange market."
+  },
+  {
+    "question": "Define a day trading strategy.",
+    "expected_source": "retrieve",
+    "expected_response": "Day trading involves buying and selling financial instruments within the same trading day to take advantage of small price movements."
+  },
+  {
+    "question": "What is a black hole?",
+    "expected_source": "wiki_search",
+    "expected_response": "A black hole is a region of spacetime where gravity is so strong that nothing, not even light, can escape."
+  },
+  {
+    "question": "What is leverage in trading?",
+    "expected_source": "retrieve",
+    "expected_response": "Leverage in trading allows traders to control a larger position with a smaller amount of capital by borrowing funds from their broker."
+  },
+  {
+    "question": "What is a stop-loss order?",
+    "expected_source": "retrieve",
+    "expected_response": "A stop-loss order is an order placed with a broker to buy or sell a security once it reaches a certain price, used to limit potential losses."
+  },
+  {
+    "question": "What are candlestick charts?",
+    "expected_source": "retrieve",
+    "expected_response": "Candlestick charts are a type of financial chart used to describe price movements of a security, showing open, high, low, and close prices for each time interval."
+  },
+  {
+    "question": "What does 'bull market' mean?",
+    "expected_source": "retrieve",
+    "expected_response": "A bull market refers to a financial market in which prices are rising or are expected to rise, typically associated with investor optimism."
+  },
+  {
+    "question": "What is an ETF?",
+    "expected_source": "retrieve",
+    "expected_response": "An ETF, or Exchange-Traded Fund, is a type of investment fund that is traded on stock exchanges, similar to stocks, and often tracks an index."
+  },
+  {
+    "question": "Who is the CEO of Tesla?",
+    "expected_source": "wiki_search",
+    "expected_response": "The CEO of Tesla is Elon Musk."
+  },
+  {
+    "question": "What is the distance between the Earth and the Moon?",
+    "expected_source": "wiki_search",
+    "expected_response": "The average distance between the Earth and the Moon is approximately 384,400 kilometers (238,855 miles)."
+  },
+  {
+    "question": "What is a margin call?",
+    "expected_source": "retrieve",
+    "expected_response": "A margin call occurs when the value of an investor's margin account falls below the broker's required amount, prompting the investor to deposit more funds or sell assets."
+  },
+  {
+    "question": "What is the Fibonacci retracement in trading?",
+    "expected_source": "retrieve",
+    "expected_response": "Fibonacci retracement is a technical analysis tool used to identify potential support and resistance levels based on key Fibonacci ratios like 23.6%, 38.2%, and 61.8%."
+  },
+  {
+    "question": "What is the definition of inflation?",
+    "expected_source": "wiki_search",
+    "expected_response": "Inflation is the rate at which the general level of prices for goods and services is rising, leading to a decrease in purchasing power."
+  }
+
+]

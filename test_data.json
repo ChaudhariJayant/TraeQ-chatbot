@@ -1,0 +1,43 @@
+[
+    {
+      "question": "What is the MACD indicator?",
+      "expected_source": "retrieve",
+      "expected_response": "MACD, or Moving Average Convergence Divergence, is a trend-following momentum indicator that shows the relationship between two moving averages of a security’s price."
+    },
+    {
+      "question": "How do trailing stop losses work?",
+      "expected_source": "retrieve",
+      "expected_response": "Trailing stop losses allow traders to set a stop-loss order at a percentage level below the market price that adjusts as the price moves in their favor."
+    },
+    {
+      "question": "What is scalping in trading?",
+      "expected_source": "retrieve",
+      "expected_response": "Scalping is a short-term trading strategy focused on profiting from small price changes, often executed over seconds or minutes."
+    },
+    {
+      "question": "Who discovered gravity?",
+      "expected_source": "wiki_search",
+      "expected_response": "Gravity was first described scientifically by Sir Isaac Newton in the 17th century."
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "expected_source": "wiki_search",
+      "expected_response": "The chemical symbol for water is H2O."
+    },
+    {
+      "question": "Explain moving averages in trading.",
+      "expected_source": "retrieve",
+      "expected_response": "Moving averages are used in technical analysis to smooth out price data over a specified time period by creating a constantly updated average price."
+    },
+    {
+      "question": "What is hedging?",
+      "expected_source": "retrieve",
+      "expected_response": "Hedging is a strategy used to reduce the risk of adverse price movements in an asset by taking an offsetting position in a related security."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "expected_source": "wiki_search",
+      "expected_response": "The tallest mountain in the world is Mount Everest, with a peak at 8,848.86 meters (29,031.7 feet) above sea level."
+    }
+  ]
+  
